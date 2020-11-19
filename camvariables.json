@@ -262,7 +262,8 @@
       "secured": false,
       "required": true,
       "immutable": false,
-      "group_name": "vbonline"
+      "group_name": "vbonline",
+      "default": "10.10.10.10"
     },
     {
       "name": "LinuxNode-name",
@@ -273,7 +274,8 @@
       "secured": false,
       "required": true,
       "immutable": false,
-      "group_name": "vbonline"
+      "group_name": "vbonline",
+      "default": "sample-1"
     },
     {
       "name": "LinuxNode-os_admin_user",
